@@ -25,7 +25,7 @@ The project helps beginners understand:
 
 
 # Code Structure
-1.personal_intro.py → Main Python program
+1.personal_info.py → Main Python program
 
 2.README.md → Project documentation
 
